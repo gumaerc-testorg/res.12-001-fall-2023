@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_igwaves_beta.mpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_igwaves_beta.mpg
 file_size: 637371
 file_type: video/mpeg
 image_metadata:
