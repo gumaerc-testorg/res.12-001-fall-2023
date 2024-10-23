@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_twowaves.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_twowaves.m
 file_size: 3081
 file_type: text/x-objcsrc
 image_metadata:

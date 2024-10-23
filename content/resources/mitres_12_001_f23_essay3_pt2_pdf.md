@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_essay3_pt2.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_essay3_pt2.pdf
 file_size: 5240218
 file_type: application/pdf
 image_metadata:

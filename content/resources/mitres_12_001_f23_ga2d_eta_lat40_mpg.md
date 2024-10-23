@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_ga2d_eta_lat40.mpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/mitres_12_001_f23_ga2d_eta_lat40.mpg
 file_size: 1020057
 file_type: video/mpeg
 image_metadata:
